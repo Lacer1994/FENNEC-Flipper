@@ -1,0 +1,8 @@
+FENNEC Flip – Reverse Keyframes with Interpolation
+
+This script was developed as a custom solution for reversing selected keyframes in Adobe After Effects, including all interpolation settings such as easing and spatial tangents.
+Unlike a simple time-reverse, it accurately mirrored keyframes, timing and animation curves.
+Before Adobe introduced the “Paste Reversed Keyframes” feature, this tool allowed me to achieve that result reliably.
+It worked especially well in combination with tools like Motion Tools (Motion Design School), where I assigned it to a custom button for quick access.
+
+Although now obsolete, it served me well for over a year and remains a useful reference for scripting complex keyframe manipulations in After Effects.
